@@ -1227,7 +1227,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: MaxSpeed
+  m_Text: Max Speed
 --- !u!222 &346756764
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8333,7 +8333,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: MaxDuration
+  m_Text: Max Duration
 --- !u!222 &1694943616
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8755,7 +8755,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: SendFPS
+  m_Text: Send FPS
 --- !u!222 &1802283269
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8832,7 +8832,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: MaxForce
+  m_Text: Max Force
 --- !u!222 &1802970900
 CanvasRenderer:
   m_ObjectHideFlags: 0
